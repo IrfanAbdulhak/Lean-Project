@@ -1,3 +1,4 @@
 LEAN PROJECT
 
--AUDIT 6S
+-AUDIT 6S Project
+-SOP Project
